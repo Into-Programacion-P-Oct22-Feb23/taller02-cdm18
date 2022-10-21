@@ -18,7 +18,7 @@ public class Proyecto_01 {
         // TODO code application logic here
      System.out.println("Ejemplo básico de Java\n" +
 "Versionado a través de Git\n" +
-"Manejado desde GitHub"); 
+"Manejado desde GitHub" + "Creado por cdm18"); 
     
     }
     
